@@ -4,7 +4,6 @@ function get_letter_interval_2(number_a, number_b) {
     var collection_c = [];
     var i = 0;
     var letter = '';
-    var k;
     var a_ASCII = 'a'.charCodeAt();
     if (number_a < number_b) {
         for (i = number_a; i <= number_b; i++) {
