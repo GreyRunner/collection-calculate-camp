@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jasmine-node --verbose specs/filter"
+    "test": "jasmine-node --verbose specs/flaten"
   },
   "dependencies": {
     "jasmine-node": "1.14.5"
