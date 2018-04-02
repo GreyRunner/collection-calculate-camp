@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jasmine-node --verbose specs/map"
+    "test": "jasmine-node --verbose specs/reduce"
   },
   "dependencies": {
     "jasmine-node": "1.14.5"
