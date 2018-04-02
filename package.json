@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jasmine-node --verbose specs/ruduce"
+    "test": "jasmine-node --verbose specs/superposition_operation"
   },
   "dependencies": {
     "jasmine-node": "1.14.5"
